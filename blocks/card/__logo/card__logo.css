@@ -1,0 +1,10 @@
+.card__logo {
+  margin: 48px 0 35px 48px;
+  width: 64px;
+}
+
+@media screen and (max-width: 327px) {
+  .card__logo {
+    margin: 48px 0 35px 49px;
+  }
+}

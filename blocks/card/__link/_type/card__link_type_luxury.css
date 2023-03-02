@@ -1,0 +1,9 @@
+.card__link_type_luxury {
+  color: #004140;
+}
+
+.card__link_type_luxury:hover,
+:focus {
+  color: #ffffff;
+  background-color: #004140;
+}

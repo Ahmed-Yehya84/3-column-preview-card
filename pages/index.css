@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+
+/* root */
+@import url(../blocks/root/root.css);
+
+/* page block */
+@import url(../blocks/page/page.css);
+
+/* container */
+
+@import url(../blocks/container/container.css);
+
+/* card block */
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__logo/card__logo.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__paragraph/card__paragraph.css);
+@import url(../blocks/card/__link/card__link.css);
+@import url(../blocks/card/__link/_type/card__link_type_sedan.css);
+@import url(../blocks/card/__link/_type/card__link_type_suv.css);
+@import url(../blocks/card/__link/_type/card__link_type_luxury.css);
+@import url(../blocks/card/_type/card_type_luxury.css);
+@import url(../blocks/card/_type/card_type_sedan.css);
+@import url(../blocks/card/_type/card_type_suv.css);
+@import url(../blocks/card/__button/_type/card__button_type_sedan.css);
+@import url(../blocks/card/__button/_type/card__button_type_suv.css);
+@import url(../blocks/card/__button/_type/card__button_type_luxury.css);

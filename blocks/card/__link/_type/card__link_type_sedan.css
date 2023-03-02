@@ -1,0 +1,9 @@
+.card__link_type_sedan {
+  color: #e28625;
+}
+
+.card__link_type_sedan:hover,
+:focus {
+  background-color: #e28625;
+  color: #ffffff;
+}

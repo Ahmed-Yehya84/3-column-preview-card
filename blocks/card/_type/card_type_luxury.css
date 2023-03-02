@@ -1,0 +1,10 @@
+.card_type_luxury {
+  background-color: #004140;
+  border-radius: 0 8px 8px 0;
+}
+
+@media screen and (max-width: 375px) {
+  .card_type_luxury {
+    border-radius: 0 0 8px 8px;
+  }
+}

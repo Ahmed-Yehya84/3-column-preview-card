@@ -1,0 +1,17 @@
+.card__paragraph {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Lexend Deca";
+  line-height: 25px;
+  color: #ffffff;
+  opacity: 0.75;
+  max-width: 212px;
+  margin: 0 47.5px 83px 47.5px;
+}
+
+@media screen and (max-width: 375px) {
+  .card__paragraph {
+    min-width: 231px;
+    margin: 0 47.5px 25px 48.5px;
+  }
+}

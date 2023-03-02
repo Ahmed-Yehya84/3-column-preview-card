@@ -1,0 +1,9 @@
+.card__link_type_suv {
+  color: #006971;
+}
+
+.card__link_type_suv:hover,
+:focus {
+  color: #ffffff;
+  background-color: #006971;
+}
