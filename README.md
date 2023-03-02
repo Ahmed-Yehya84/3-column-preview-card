@@ -4,7 +4,7 @@ A simple three column card, i used CSS grid to create a responsive layout for th
 
 you can view the finished card here: https://ahmed-yehya84.github.io/three-column-preview-card/
 
-screenshots: 
+screenshots:
 
 ![screencapture-127-0-0-1-5500-index-html-2023-03-02-12_59_06](https://user-images.githubusercontent.com/46849154/222409896-0273b37a-4da4-4567-922b-27f01bb336e6.png)
 
