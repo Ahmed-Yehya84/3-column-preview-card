@@ -8,4 +8,4 @@ screenshots:
 
 ![screencapture-127-0-0-1-5500-index-html-2023-03-02-12_59_06](https://user-images.githubusercontent.com/46849154/222409896-0273b37a-4da4-4567-922b-27f01bb336e6.png)
 
-![Screen Shot 2023-03-01 at 21 49 20](https://user-images.githubusercontent.com/46849154/222409755-24798b80-216a-4065-a52c-d83268368272.png)
+![127 0 0 1 5500-FrontendMentor3-columnpreviewcardcomponent](https://user-images.githubusercontent.com/46849154/222410013-3acf0019-9248-49d2-8ead-8c7656070181.png)
